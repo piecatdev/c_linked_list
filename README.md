@@ -46,7 +46,7 @@ brew install gcc make
 ```
 
 ```bash
-git clone https://github.com/USERNAME/c-linked-list.git
+git clone https://github.com/piecatdev/c-linked-list.git
 cd c-linked-list
 ```
 

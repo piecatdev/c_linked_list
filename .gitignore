@@ -1,0 +1,15 @@
+# Compiled executables
+demo
+test_runner
+
+# Object and archive files (for future multi-file builds)
+*.o
+*.a
+
+# Editor / IDE artefacts
+.vscode/
+*.swp
+*~
+
+# macOS finder state
+.DS_Store
